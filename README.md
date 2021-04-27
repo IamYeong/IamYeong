@@ -59,8 +59,8 @@ AVD Manager 설정, **Gradle** 을 통한 **외부 라이브러리 의존성 / �
 
 점심고르기 서포트 앱입니다.   
 공부와 병행하고 욕심나는 기능을 모두 넣었습니다.   
-개인적으로도 성공이었고 Admob으로 광고하여 사용자유치도 했습니다.   
-실제 수익도 나는 것을 보니 정말 신기하더라구요.
+개인적으로도 성공이었고 Google ads 으로 광고하여 사용자유치도 했습니다.   
+Admob을 이용해 실제 수익도 나는 것을 보니 정말 신기하더라구요.
 
 [Google play 바로가기](https://play.google.com/store/apps/details?id=com.todaylunch.unknown)   
 [Repository 에서 코드보기](https://github.com/IamYeong/todayLunch)   
