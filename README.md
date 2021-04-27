@@ -25,7 +25,7 @@ AVD Manager 설정, **Gradle** 을 통한 **외부 라이브러리 의존성 / �
 
 ***
 
-- 하우매니
+#### 하우매니
 
 이미지
 
@@ -35,9 +35,15 @@ AVD Manager 설정, **Gradle** 을 통한 **외부 라이브러리 의존성 / �
 
 [Google play 바로가기](https://play.google.com/store/apps/details?id=com.package1.householdledger3)   
 
-- 오점무
+***
 
-이미지
+#### 오점무
+
+<!--
+![TodayLunch_icon](https://user-images.githubusercontent.com/59534301/116230928-2bb14100-a793-11eb-90b1-450df3e92d54.png)
+-->
+
+<img src="https://user-images.githubusercontent.com/59534301/116230928-2bb14100-a793-11eb-90b1-450df3e92d54.png" width="100px" height="100px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
 공부와 병행하고 욕심나는 기능을 모두 넣었습니다.   
 개인적으로도 성공이었고 Admob으로 광고하여 사용자유치도 했습니다.   
@@ -46,7 +52,9 @@ AVD Manager 설정, **Gradle** 을 통한 **외부 라이브러리 의존성 / �
 [Google play 바로가기](https://play.google.com/store/apps/details?id=com.todaylunch.unknown)   
 [Repository 에서 코드보기](https://github.com/IamYeong/todayLunch)   
 
-- 오벤져스
+***
+
+#### 오벤져스
 
 이미지
 
@@ -58,6 +66,8 @@ AWS까지는 아니었지만 Firebase 의 Firestore를 활용하고
 실제로 적용하는 것에 익숙해졌다고 느꼈습니다.
 
 [Repository 에서 코드보기](https://github.com/IamYeong/MyFriendsPlace)   
+
+***
 
 
 ### 기간 별 공부 ✏️
