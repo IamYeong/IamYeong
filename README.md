@@ -28,7 +28,7 @@ AVD Manager 설정, **Gradle** 을 통한 **외부 라이브러리 의존성 / �
 
 ***
 
-#### 하우매니
+#### 하우매니 💰
 
 <!--
 ![Howmany_icon](https://user-images.githubusercontent.com/59534301/116231898-6a93c680-a794-11eb-8bb0-a3af2f66f119.PNG)
@@ -36,7 +36,9 @@ AVD Manager 설정, **Gradle** 을 통한 **외부 라이브러리 의존성 / �
 
 <img src="https://user-images.githubusercontent.com/59534301/116231898-6a93c680-a794-11eb-8bb0-a3af2f66f119.PNG" width="80px" height="80px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
-처음으로 구글 플레이에 업로드 된 앱입니다.   
+처음으로 구글 플레이에 업로드 된 앱입니다.  
+목표금액과 현재 자산을 입력하면 목표날짜까지 하루평균 얼마를 써야 목표를 달성하는지 산출해주고,   
+주식처럼 어제대비 쓸 수 있는 금액이 늘었는지 줄었는지 표기합니다.   
 책으로 Java를 배운 뒤 곧바로 만든 앱이라서 엉망이었습니다.   
 충격받아서 다음 앱 프로젝트는 각종 공부를 병행했습니다.   
 
@@ -44,7 +46,7 @@ AVD Manager 설정, **Gradle** 을 통한 **외부 라이브러리 의존성 / �
 
 ***
 
-#### 오점무
+#### 오점무 🍚 
 
 <!--
 ![TodayLunch_icon](https://user-images.githubusercontent.com/59534301/116230928-2bb14100-a793-11eb-90b1-450df3e92d54.png)
@@ -52,6 +54,7 @@ AVD Manager 설정, **Gradle** 을 통한 **외부 라이브러리 의존성 / �
 
 <img src="https://user-images.githubusercontent.com/59534301/116230928-2bb14100-a793-11eb-90b1-450df3e92d54.png" width="100px" height="100px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
+점심고르기 서포트 앱입니다.   
 공부와 병행하고 욕심나는 기능을 모두 넣었습니다.   
 개인적으로도 성공이었고 Admob으로 광고하여 사용자유치도 했습니다.   
 실제 수익도 나는 것을 보니 정말 신기하더라구요.
@@ -61,7 +64,7 @@ AVD Manager 설정, **Gradle** 을 통한 **외부 라이브러리 의존성 / �
 
 ***
 
-#### 오벤져스
+#### 오벤져스 5️⃣
 
 <!--
 ![Ovengers_icon](https://user-images.githubusercontent.com/59534301/116232136-ab8bdb00-a794-11eb-80a2-88cb3dc7b2b3.png)
