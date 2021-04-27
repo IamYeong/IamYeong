@@ -30,7 +30,11 @@ AVD Manager 설정, **Gradle** 을 통한 **외부 라이브러리 의존성 / �
 
 #### 하우매니
 
+<!--
+![Howmany_icon](https://user-images.githubusercontent.com/59534301/116231898-6a93c680-a794-11eb-8bb0-a3af2f66f119.PNG)
+-->
 
+<img src="https://user-images.githubusercontent.com/59534301/116231898-6a93c680-a794-11eb-8bb0-a3af2f66f119.PNG" width="80px" height="80px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
 처음으로 구글 플레이에 업로드 된 앱입니다.   
 책으로 Java를 배운 뒤 곧바로 만든 앱이라서 엉망이었습니다.   
