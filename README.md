@@ -15,7 +15,8 @@
 - SQLite : Android의 SQLiteHelper 를 통해 문법을 이해하여 기초 CRUD를 적용했습니다   
 
 - Android studio : 주력입니다. 애초부터 안드로이드 앱개발자가 포커스였습니다.   
-Git / Github연동 및 Terminal을 통한 Git 명령, 콘솔을 통한 데이터 출력, AVD Manager 설정 등   
+Git / Github연동 및 Terminal을 통한 Git 명령, 콘솔을 통한 데이터 출력,   
+AVD Manager 설정, Gradle 을 통한 외부 라이브러리 의존성 설정과 버전관리 등   
 기초적인 것은 실제 프로젝트 진행 중 자연스레 알게 됐습니다.   
 
 - xml : 앱 레이아웃 구성을 위해서는 자주 이용할 수밖에 없었습니다.   
