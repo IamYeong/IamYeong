@@ -74,12 +74,12 @@ AVD Manager 설정, **Gradle** 을 통한 **외부 라이브러리 의존성 / �
 
 <img src="https://user-images.githubusercontent.com/59534301/116232136-ab8bdb00-a794-11eb-80a2-88cb3dc7b2b3.png" width="80px" height="80px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
-기기 안의 데이터만 다뤄서는 기능에 제한이 컸습니다.
-AWS까지는 아니었지만 Firebase 의 Firestore를 활용하고
-카카오 로그인 API를 활용하여 로그인과 유저정보 저장,
-서버를 활용한 게시판/댓글 까지 진행해봤습니다.
-처음에 비해 확실히 새로운 개념을 익히고 낯선 코드를 보는 것과
-실제로 적용하는 것에 익숙해졌다고 느꼈습니다.
+기기 안의 데이터만 다뤄서는 기능에 제한이 컸습니다.   
+AWS까지는 아니었지만 Firebase 의 Firestore를 활용하고   
+카카오 로그인 API를 활용하여 로그인과 유저정보 저장,   
+서버를 활용한 게시판/댓글 까지 진행해봤습니다.   
+처음에 비해 확실히 새로운 개념을 익히고 낯선 코드를 보는 것과   
+실제로 적용하는 것에 익숙해졌다고 느꼈습니다.   
 
 [Repository 에서 코드보기](https://github.com/IamYeong/MyFriendsPlace)   
 
