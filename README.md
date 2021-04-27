@@ -63,7 +63,11 @@ AVD Manager 설정, **Gradle** 을 통한 **외부 라이브러리 의존성 / �
 
 #### 오벤져스
 
-이미지
+<!--
+![Ovengers_icon](https://user-images.githubusercontent.com/59534301/116232136-ab8bdb00-a794-11eb-80a2-88cb3dc7b2b3.png)
+-->
+
+<img src="https://user-images.githubusercontent.com/59534301/116232136-ab8bdb00-a794-11eb-80a2-88cb3dc7b2b3.png" width="80px" height="80px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
 기기 안의 데이터만 다뤄서는 기능에 제한이 컸습니다.
 AWS까지는 아니었지만 Firebase 의 Firestore를 활용하고
