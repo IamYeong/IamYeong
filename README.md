@@ -45,7 +45,7 @@ AVD Manager 설정, **Gradle** 을 통한 **외부 라이브러리 의존성 / �
 충격받아서 다음 앱 프로젝트는 각종 공부를 병행했습니다.   
 
 [Google play 바로가기](https://play.google.com/store/apps/details?id=com.package1.householdledger3)   
-[Repository 에서 코드보기](https://github.com/IamYeong/todayLunch)  
+[Repository 에서 코드보기](https://github.com/IamYeong/FirstProjectRepo)  
 
 ***
 
