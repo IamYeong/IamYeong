@@ -84,6 +84,11 @@ AWS까지는 아니었지만 Firebase 의 Firestore를 활용하고
 
 [Repository 에서 코드보기](https://github.com/IamYeong/MyFriendsPlace)   
 
+#### 슈퍼레이스   
+
+
+
+
 ***
 
 
@@ -108,4 +113,8 @@ AWS까지는 아니었지만 Firebase 의 Firestore를 활용하고
 - ~2021.03 : <인사이드 안드로이드>와 github를 활용한 안드로이드 프레임워크 학습   
 - ~2021.04 :    
 > **<자바로 배우는 핵심 자료구조와 알고리즘> 저서를 통한 알고리즘 학습 중**     
-> **Firestore활용한 친구끼리 쓸 SNS 개발 중**   
+> **Firestore활용한 친구끼리 쓸 SNS 개발**   
+
+- ~2021.05 :
+> **백준/책 등을 활용한 문제해결과 대표적 모델 학습 중**
+> **Superrace 라는 테스트 프로젝트 개발 중**
