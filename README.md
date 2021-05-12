@@ -121,5 +121,7 @@ AWS까지는 아니었지만 Firebase 의 Firestore를 활용하고
 > **Firestore활용한 친구끼리 쓸 SNS 개발**   
 
 - ~2021.05 :
-> **백준/책 등을 활용한 문제해결과 대표적 모델 학습 중**
+> **백준/책 등을 활용한 문제해결과 대표적 모델 학습 중**   
+[Repository 에서 알고리즘 연습 코드 보기](https://github.com/IamYeong/AlgorithmLearning)
+
 > **Superrace 라는 테스트 프로젝트 개발 중**
