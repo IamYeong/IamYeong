@@ -9,10 +9,10 @@
 
 ***
 
-<img src="https://user-images.githubusercontent.com/59534301/135816056-487fa327-cabd-4cb1-abf4-cd6ad60ae500.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="https://user-images.githubusercontent.com/59534301/135815858-bccc153d-9734-4357-b1b9-d9cf07ecb343.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 - **Android** : 주력 무기입니다. Andorid studio를 활용하여 모든 것과 통신할 수 있습니다.
 
-<img src="https://user-images.githubusercontent.com/59534301/135816150-c0696072-77f5-4403-89d6-40a0ad3392fe.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="https://user-images.githubusercontent.com/59534301/135816056-487fa327-cabd-4cb1-abf4-cd6ad60ae500.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 - **Android jetpack** : 최신 설계를 쉽게 구현할 수 있고 파편화문제를 해결한 Jetpack 라이브러리를 개념이해를 기반으로 하여 다룰 수 있습니다.
 
 <img src="https://user-images.githubusercontent.com/59534301/135815781-b2184ae8-3a4e-4cdf-b84b-1a0d74b1eaec.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
@@ -21,23 +21,23 @@
 <img src="https://user-images.githubusercontent.com/59534301/135815534-322a2936-28f4-4166-ba57-8a2918b8e54e.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 - **SWIFT** : Object-C 에 이은 IOS 개발언어입니다. 어렵다고들 하지만 이미 Kotlin 과 jS, Java 등을 통한 언어 구조가 이해된 상태입니다. 개발자 페이지에서 독학했습니다.
 
-<img src="https://user-images.githubusercontent.com/59534301/135815858-bccc153d-9734-4357-b1b9-d9cf07ecb343.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="https://user-images.githubusercontent.com/59534301/135816150-c0696072-77f5-4403-89d6-40a0ad3392fe.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 - **Java** : 주력언어입니다. 독서를 좋아해서인지 예약어들이 구체적이라는 점이 마음에 들었고 가독성은 배웠던 언어 중 가장 뛰어나다고 생각합니다. Andorid 앱개발에 활용하는 언어입니다.
 
 <img src="https://user-images.githubusercontent.com/59534301/135816293-960f4749-0fcf-48b6-baaf-25f0ce096648.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 - **kotlin** : 처음 배웠던 언어입니다. 가독성이 어렵다고 생각하여 뒤로 미루고 Java를 다시 배웠으나 JS와 SWIFT를 배우고 나니 문법이 익숙해져서 자연스레 쓸 수 있게 됐고 덕분에 Jetpack 라이브러리도 어렵지 않게 접근할 수 있었습니다.
 
-<img src="https://user-images.githubusercontent.com/59534301/135816212-e9ab1911-37a5-4c0b-a757-2bdb53f465e4.png" width="100px" height="100px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="https://user-images.githubusercontent.com/59534301/135816365-ef06d82b-acf6-4b91-aaec-55b869c3b919.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 - **SQLite** : Android의 SQLiteHelper 를 통해 문법을 이해하여 기초 CRUD를 적용했습니다   
 
-<img src="https://user-images.githubusercontent.com/59534301/135816150-c0696072-77f5-4403-89d6-40a0ad3392fe.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
-- **MySQL** : 
+<img src="https://user-images.githubusercontent.com/59534301/135818898-8201c63b-b642-49b0-86cc-083286673d1c.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+- **MySQL** : AWS EC2 / RDS 환경과 MySQL 을 연동하여 DB 서버를 구성하고 앱과 통신할 수 있습니다.
 
 <img src="https://user-images.githubusercontent.com/59534301/135816566-cdd68036-5252-4e93-b8ec-9ad77f387bb6.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 - **Firebase** : 앱과 연동하여 각종 데이터와 기능을 활용할 수 있습니다.  
 
-<img src="https://user-images.githubusercontent.com/59534301/135816566-cdd68036-5252-4e93-b8ec-9ad77f387bb6.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img> 
-**Git / Github연동** 및 Terminal을 통한 **Git 명령** , 콘솔을 통한 데이터 출력,   
+   
+- **Git / Github연동** 및 Terminal을 통한 **Git 명령** , 콘솔을 통한 데이터 출력,   
 
 AVD Manager 설정, **Gradle** 을 통한 **외부 라이브러리 의존성 / 저장소 / 버전 설정** 등   
 기초적인 것은 실제 프로젝트 진행 중 자연스레 알게 됐습니다.   
