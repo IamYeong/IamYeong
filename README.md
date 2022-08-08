@@ -18,6 +18,9 @@
    
 <img src="https://user-images.githubusercontent.com/59534301/135818898-8201c63b-b642-49b0-86cc-083286673d1c.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 <img src="https://user-images.githubusercontent.com/59534301/135816566-cdd68036-5252-4e93-b8ec-9ad77f387bb6.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="https://user-images.githubusercontent.com/59534301/183374864-b1fb5e29-0007-4328-8998-63edfe8ff6fa.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="https://user-images.githubusercontent.com/59534301/183374809-79f57513-b816-4c6d-82ae-00fe6fe89b2f.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+   
    
 - **Android** :    
 > View의 상속관계를 이해하고 속성을 적절히 활용가능   
