@@ -10,38 +10,72 @@
 ***
 
 <img src="https://user-images.githubusercontent.com/59534301/135815858-bccc153d-9734-4357-b1b9-d9cf07ecb343.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
-- **Android** : 주력 무기입니다. Andorid studio를 활용하여 모든 것과 통신할 수 있습니다.
-
-<img src="https://user-images.githubusercontent.com/59534301/135816056-487fa327-cabd-4cb1-abf4-cd6ad60ae500.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
-- **Android jetpack** : 최신 설계를 쉽게 구현할 수 있고 파편화문제를 해결한 Jetpack 라이브러리를 개념이해를 기반으로 하여 다룰 수 있습니다.
-
 <img src="https://user-images.githubusercontent.com/59534301/135815781-b2184ae8-3a4e-4cdf-b84b-1a0d74b1eaec.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
-- **IOS X Code** : 크로스플랫폼을 flutter 나 RN 으로 구현하는 사례가 있지만 결국 네이티브를 이해해야 세밀한 환경설정까지 가능합니다. 그래서 배웠습니다. wsl 을 활용하여 윈도우 환경에서 IOS 앱 개발이 가능합니다.
-
 <img src="https://user-images.githubusercontent.com/59534301/135815534-322a2936-28f4-4166-ba57-8a2918b8e54e.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
-- **SWIFT** : Object-C 에 이은 IOS 개발언어입니다. 어렵다고들 하지만 이미 Kotlin 과 jS, Java 등을 통한 언어 구조가 이해된 상태입니다. 개발자 페이지에서 독학했습니다.
-
 <img src="https://user-images.githubusercontent.com/59534301/135816150-c0696072-77f5-4403-89d6-40a0ad3392fe.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
-- **Java** : 주력언어입니다. 독서를 좋아해서인지 예약어들이 구체적이라는 점이 마음에 들었고 가독성은 배웠던 언어 중 가장 뛰어나다고 생각합니다. Andorid 앱개발에 활용하는 언어입니다.
-
 <img src="https://user-images.githubusercontent.com/59534301/135816293-960f4749-0fcf-48b6-baaf-25f0ce096648.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
-- **kotlin** : 처음 배웠던 언어입니다. 가독성이 어렵다고 생각하여 뒤로 미루고 Java를 다시 배웠으나 JS와 SWIFT를 배우고 나니 문법이 익숙해져서 자연스레 쓸 수 있게 됐고 덕분에 Jetpack 라이브러리도 어렵지 않게 접근할 수 있었습니다.
-
 <img src="https://user-images.githubusercontent.com/59534301/135816365-ef06d82b-acf6-4b91-aaec-55b869c3b919.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
-- **SQLite** : Android의 SQLiteHelper 를 통해 문법을 이해하여 기초 CRUD를 적용했습니다   
-
-<img src="https://user-images.githubusercontent.com/59534301/135818898-8201c63b-b642-49b0-86cc-083286673d1c.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
-- **MySQL** : AWS EC2 / RDS 환경과 MySQL 을 연동하여 DB 서버를 구성하고 앱과 통신할 수 있습니다.
-
-<img src="https://user-images.githubusercontent.com/59534301/135816566-cdd68036-5252-4e93-b8ec-9ad77f387bb6.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
-- **Firebase** : 앱과 연동하여 각종 데이터와 기능을 활용할 수 있습니다.  
-
    
-- **Git / Github연동** 및 Terminal을 통한 **Git 명령** , 콘솔을 통한 데이터 출력,   
+<img src="https://user-images.githubusercontent.com/59534301/135818898-8201c63b-b642-49b0-86cc-083286673d1c.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="https://user-images.githubusercontent.com/59534301/135816566-cdd68036-5252-4e93-b8ec-9ad77f387bb6.png" width="50px" height="50px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+   
+- **Android** :    
+> View의 상속관계를 이해하고 속성을 적절히 활용가능   
+> View를 상속받아 원하는 동작을 만들 수 있음   
+> Application, View, Activity, Service 등의 라이프사이클을 이해하고 적절한 동작 설계 가능   
+> Service 를 활용하여 백그라운드 동작 구현 가능   
+> BroadcastReceiver 를 활용하여 전역적 앱 내 액션 전파 가능   
+> Activity 와 Fragment transaction을 적절히 활용 가능   
+> Thread / Looper / Handler 를 활용하여 멀티스레드 활용 가능   
+> SQL 쿼리문을 직접 쓰거나 Room을 활용하여 관계형 DB설계 가능   
+   
+- **IOS** :   
+> 스토리보드의 특징을 이해하고 사용자 방향성을 고려 가능   
+> 라이프사이클 이해 후 코딩 가능   
+   
+- **SWIFT** :    
+> 기초 문법 이해를 위해 문서 정독
+> 컴파일러 지식과 병행하여 언어에 있는 개념을 이해   
+   
+- **Java** :    
+> 주력 언어
+> 기본 클래스들과 인터페이스 자유자재 사용가능
+> 가시성 지시자와 적절한 메서드를 통한 캡슐화 가능   
+   
+- **kotlin** :    
+> 최초 학습 언어   
+> 기본 활용 가능   
+> 자바보단 이해도가 떨어짐   
+   
+- **SQLite** :    
+> 앱 내에서 DB를 쓰려면 쿼리문 필수   
+> Room 을 쓰더라도 @Query 애노테이션에 적절한 함수와 동작 코딩 가능   
 
-AVD Manager 설정, **Gradle** 을 통한 **외부 라이브러리 의존성 / 저장소 / 버전 설정** 등   
-기초적인 것은 실제 프로젝트 진행 중 자연스레 알게 됐습니다.   
+- **MySQL** :    
+> AWS EC2, RDS와 함께 사용한 경험 있음   
+> SQLD 수준의 쿼리 가능   
 
+- **Firebase** :    
+> Firestore 사용경험 있음   
+> Media storage 사용경험 있음   
+> Auth 사용경험 있음   
+> Crashritics 사용경험 있음   
+   
+- **EC2** :   
+> 적절한 인스턴스를 생성하고 IP 제한 가능   
+> Putty 를 사용해서 SSH 접속 및 터미널 명령 가능   
+> Node.js, PM2를 사용한 서버 사용 가능   
+   
+- **Node.js** :    
+> Javascript 문서 독학   
+> JSON 형태를 이해하고 언어 내에서나 통신 때 적절하게 사용 가능   
+> 기초적인 사용은 모두 가능(변수/함수/객체/콜백/패키치 사용 ... )    
+    
+- **Git** :    
+> branch, staging, commit, push, pull, merge 등 기초 활용 가능   
+> 평소에도 기능개발/수정 단위로 커밋 습관화   
+> github 와 같이 사용하여 clone, push, pull, fetch 등 활용 가능   
+   
 
 ***
 
@@ -105,13 +139,7 @@ AWS까지는 아니었지만 Firebase 의 Firestore를 활용하고
 
 ***
 
-#### 슈퍼레이스   
-   
-<img src="https://user-images.githubusercontent.com/59534301/117963194-04de3780-b35b-11eb-9144-d747a946d4d3.png" width="80px" height="80px" title="px(픽셀) 크기 설정" alt="Superrace"></img>
-   
-개발 진행 중.
 
-[Repository 에서 코드보기](https://github.com/IamYeong/SuperRace)
 
 ***
 
@@ -143,4 +171,19 @@ AWS까지는 아니었지만 Firebase 의 Firestore를 활용하고
 > **백준/책 등을 활용한 문제해결과 대표적 모델 학습 중**   
 [Repository 에서 알고리즘 연습 코드 보기](https://github.com/IamYeong/AlgorithmLearning)
 
-> **Superrace 라는 테스트 프로젝트 개발 중**
+- 2021.05.20 ~
+> **주식회사 TR 에서 근무 시작**
+> 입사 후 즉시 폐기능검진 사업 업무파악 후 Bluetooth 통신 앱 개발 시작
+> 최초 Bluetooth 4.0 미만인 클래식 블루투스 연결 구현
+> 이후 BLE 통신으로 변경 후 커스텀 그래프 발전시키며 개발 진행
+> ISWT(혜화 All-set 사업) 과제 앱 개발(LiDar 센서 + Max3010x 칩 과 BLE 통신)
+> BLE 모듈 외주 개발
+> 의료 레이저 장비에 사용되는 윈도우 앱 개발(C# 사용, 시리얼통신 이용)
+> 유량 요차율 연구 겸임
+
+- 2022.01.01 ~
+> **주임연구원으로 승격**
+> ATS24 유량 오차율 연구 완료하여 성적서 발급 대구첨복센터와 진행
+> 색상센서와 BLE 통신하는 외주 앱 개발(센서 문서를 읽고 어둡게 들어오는 RGB값 정확히 보정)
+> 자사 태블릿 용 앱 개발(커스텀 그래프 고도화, 화면 크기를 고려한 뷰 크기 동적 조정 등)
+> 자사 모바일 용 앱 기획/디자인 시안 작성, 개발 준비 중(2022.08.08 수정)
