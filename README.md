@@ -154,7 +154,7 @@ Firebase 와 연동하여 카카오톡처럼 설정에서 동기화를 가능하
 Figma와 블로그를 이용하여 앱의 전반적인 기획과 레이아웃, 디자인 작업을 했습니다.     
 특히 디자인은 혼자 창작하기 어려워서 dribble 을 지속적으로 보며 제가 생각한 느낌을 하나씩 구현합니다.    
 
-[Repository 에서 코드보기](https://github.com/IamYeong/RememberU)    
+[Repository 에서 코드보기](https://github.com/IamYeong/Android_RememberU)    
 
 
 
