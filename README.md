@@ -32,11 +32,6 @@
 #### ⌨️ Use languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamYeong&layout=compact&theme=swift)
 
-
-#### 📊 Git hub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamYeong&show_icons=true&theme=swift)
-
-
 #### 👑 Activities
 
 작성 준비 중(23.04.09)
