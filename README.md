@@ -28,10 +28,6 @@
 <img src="https://img.shields.io/badge/S3-62A538?style=plastic&logo=amazonaws&logoColor=white"></img>
 <img src="https://img.shields.io/badge/SES-F24381?style=plastic&logo=amazonaws&logoColor=white"></img>
 
-
-#### ⌨️ Use languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamYeong&layout=compact&theme=swift)
-
 #### 👑 Activities
 
 작성 준비 중(23.04.09)
